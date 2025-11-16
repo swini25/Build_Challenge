@@ -82,7 +82,7 @@ All tests print **readable console logs**.
 ### **Clone the Repository**
 
 ```sh
-git clone https://github.com/<your-username>/pc001-producer-consumer.git
+git clone https://github.com/swini25/Build_Challenge
 cd pc001-producer-consumer
 ```
 

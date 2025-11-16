@@ -98,7 +98,7 @@ All tests print simple, readable console logs.
 ### **Clone the Repository**
 
 ```sh
-git clone https://github.com/<your-username>/sa001-sales-analysis.git
+git clone https://github.com/swini25/Build_Challenge
 cd sa001-sales-analysis
 ```
 
